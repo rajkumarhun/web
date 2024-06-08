@@ -6,7 +6,7 @@ import time
 
 # Path to your WebDriver executable
 driver_path = 'path/to/your/webdriver'
-driver = webdriver.Chrome(executable_path=driver_path)
+
 
 # Open Facebook
 driver.get('https://www.facebook.com')
